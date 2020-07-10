@@ -1,9 +1,0 @@
-/* main media query  */
-@media screen and (min-width:600px){
-    .app-view{
-        width: 70%;
-    }
-    .register-form, .login-form{
-        width: 60%;
-    }
-}
